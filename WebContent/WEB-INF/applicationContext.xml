@@ -15,7 +15,7 @@
 		class="org.springframework.jdbc.datasource.DriverManagerDataSource">
 
 		<property name="driverClassName" value="org.sqlite.JDBC" />
-		<property name="url" value="jdbc:sqlite:sample.db" />
+		<property name="url" value="jdbc:sqlite:d:/sample.db" />
 <!-- 		<property name="username" value="root" /> -->
 <!-- 		<property name="password" value="password" /> -->
 	</bean>
